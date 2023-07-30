@@ -1,0 +1,112 @@
+.uber-btn{
+    background-color: #0f0f0f;
+    border: none;
+    color: #ffff;
+    padding: 10px 10px;
+    transition: .25s;
+}
+.uber-btn:hover{
+    opacity: .8;
+}
+.twitter-btn{
+    background-color: rgb(25, 136, 248);
+    border: none;
+    color: #ffff;
+    padding: 10px 20px;
+    border-radius: 18px;
+    font-weight: 600;
+}
+.yt-btn{
+    background-color: #af0303;
+    border: none;
+    color: #ffff;
+    padding: 10px 10px;
+    border-radius: 2px;
+}
+.amazon1-btn{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    color: #0f0f0f;
+    padding: 10px 30px;
+    border-radius: 18px;
+    font-weight: bold;
+    transition: .25s;
+}
+.amazon1-btn:hover{
+    background-color: rgb(224, 191, 22)
+}
+.amazon2-btn{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    color: #0f0f0f;
+    padding: 10px 30px;
+    border-radius: 18px;
+    font-weight: bold;
+}
+.github-btn{
+    background-color: rgb(46, 164, 79);
+    border: none;
+    color: #ffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .25s;
+}
+.github-btn:hover{
+    box-shadow:  0px 2px 20px rgb(17, 17, 17);
+}
+.bootstrap1-btn{
+    background-color: rgb(121, 82, 179);
+    border: none;
+    color: #ffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .25s;
+}
+.bootstrap1-btn:hover{
+    background-color: rgb(101, 69, 148);
+}
+.bootstrap2-btn{
+    background: transparent;
+    border: rgb(121, 82, 179) solid 1px;
+    color: rgb(121, 82, 179);
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 8px;
+    transition: .15s;
+}
+.bootstrap2-btn:hover{
+    background-color: rgb(110, 109, 110);
+    color: #ffff;
+    border: none;
+    padding: 11px 15px;
+}
+.linkedin1-btn{
+    background-color: rgb(10, 102, 194);
+    border: none;
+    color: #ffff;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: .15s;
+}
+.linkedin1-btn:hover{
+    background-color: rgb(9, 81, 153);
+}
+.linkedin2-btn{
+    background: transparent;
+    border: rgb(10, 102, 194) solid 1px;
+    color: rgb(10, 102, 194);
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 8px;
+    transition: .15s;
+}
+.linkedin2-btn:hover{
+    background-color: rgba(102, 156, 211, 0.603);
+    padding: 9px 25px;
+    border-width: 2px;
+}
